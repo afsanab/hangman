@@ -1,2 +1,2 @@
 # hangman
-simple command line 
+simple command line game
